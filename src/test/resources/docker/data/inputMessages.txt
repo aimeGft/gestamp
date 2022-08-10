@@ -1,0 +1,6 @@
+{"TimeStamp": "2022-08-03T16:40:20.236Z","SignalName": "DQCAlarmOut","Value": "59990120101123320,WR01,1,8100,1,34,120,01001","Line": "","Cell": "","Asset": "","SubAsset": "","Operation": "","ProcessType": ""}
+{"TimeStamp": "2022-08-03T16:40:30.236Z","SignalName": "DQCAlarmIn","Value": "59990120101123320,W01,1,8100,1,34,120,01001","Line": "","Cell": "","Asset": "","SubAsset": "","Operation": "","ProcessType": ""}
+{"TimeStamp": "2022-08-03T16:40:40.236Z","SignalName": "DQCAlarmOut","Value": "59990120101123320,W01,1,8100,1,34,120,01001","Line": "","Cell": "","Asset": "","SubAsset": "","Operation": "","ProcessType": ""}
+{"TimeStamp": "2022-08-03T16:40:50.236Z","SignalName": "DQCAlarmIn","Value": "59990120101123320,W01,1,8100,1,34,120,01001","Line": "","Cell": "","Asset": "","SubAsset": "","Operation": "","ProcessType": ""}
+{"TimeStamp": "2022-08-03T16:50:00.236Z","SignalName": "DQCAlarmOut","Value": "59990120101123320,W01,1,8100,1,34,120,01001","Line": "","Cell": "","Asset": "","SubAsset": "","Operation": "","ProcessType": ""}
+{"TimeStamp": "2022-08-03T16:50:00.236Z","SignalName": "DQCAlarmOut","Value": "59990120101123320,W01,1,8100,1,34,120,01001","Line": "","Cell": "","Asset": "","SubAsset": "","Operation": "","ProcessType": ""}

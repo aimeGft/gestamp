@@ -1,0 +1,17 @@
+#--------------------------------GENERAL--------------------------------------------------------------------------------
+flink.checkpoint.activated: false
+flink.checkpoint.interval: 60000
+#flink.checkpoint.path: todo
+flink.parallelism: 1
+#----KAFKA---#
+kafka.kafkaBrokersUrls: localhost:9092
+kafka.consumersGroup: map-consumers-local1
+kafka.output.topic: DQCEVENTS
+
+#----MONGO---#
+mongo.db: DQC
+mongo.table: dqcEvents
+mongo.user: root
+mongo.pass: example
+mongo.port: 27017
+mongo.url: 127.0.0.1

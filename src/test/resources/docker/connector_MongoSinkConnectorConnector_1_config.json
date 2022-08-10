@@ -1,0 +1,14 @@
+{
+  "name": "MongoSinkConnectorConnector_1",
+  "config": {
+    "connector.class": "com.mongodb.kafka.connect.MongoSinkConnector",
+    "tasks.max": "1",
+    "key.converter": "org.apache.kafka.connect.storage.StringConverter",
+    "value.converter": "org.apache.kafka.connect.storage.StringConverter",
+    "topics": "DQCEVENTS",
+    "connection.uri": "mongodb://root:example@mongo:27017",
+    "database": "DQC",
+    "collection": "dqcEvents",
+    "document.id.strategy": "com.mongodb.kafka.connect.sink.processor.id.strategy.BsonOidStrategy"
+  }
+}
